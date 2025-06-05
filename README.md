@@ -41,6 +41,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=dracula&count_private=true&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=9&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=9&hide=php,jupyter%20notebook)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gameplaybiel&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_border=false)
