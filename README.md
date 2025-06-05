@@ -24,6 +24,11 @@
 
 ##
 
+## 📊 GitHub Stats
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=6)
+
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-de-souza-concei%C3%A7%C3%A3o-89a047230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
