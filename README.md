@@ -25,9 +25,15 @@
 ##
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=6)
+<!-- Estatísticas principais -->
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=dracula&count_private=true&cache_seconds=3600)
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=6&cache_seconds=3600)
+
+<!-- Streaks de contribuição (opcional, precisa ativar abaixo) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gameplaybiel&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_border=false)
 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-de-souza-concei%C3%A7%C3%A3o-89a047230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
