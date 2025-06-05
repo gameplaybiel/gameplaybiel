@@ -7,7 +7,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
 ## 🚀 Minhas redes e portfólio
 
 <div>
-    <img src="https://img.shields.io/badge/Beacons.ai-000000?style=for-the-badge&logo=beacons&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-de-souza-concei%C3%A7%C3%A3o-89a047230/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
