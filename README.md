@@ -33,19 +33,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
   <img align="center" alt="Gab-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-### 📈 Estatísticas do GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img alt="Gabriel's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
