@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Conceição
 
-Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **arquitetura de microsserviços**, e soluções modernas em backend. Também exploro o mundo de frontend com **React**, **Angular** e **TypeScript**.
+Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **arquitetura de microsserviços**, e soluções modernas em backend. Também exploro o mundo de frontend com **React** e **TypeScript**.
 
 ---
 
@@ -25,13 +25,26 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gab-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Gab-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Gab-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Gab-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="Gab-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
+
+### 📈 Estatísticas do GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img alt="Gabriel's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
 
 ---
 
