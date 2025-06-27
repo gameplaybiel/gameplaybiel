@@ -32,11 +32,3 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
   <img align="center" alt="Gab-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="Gab-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameplaybiel&show_icons=true&theme=dracula&count_private=true&cache_seconds=3600)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameplaybiel&layout=compact&theme=dracula&langs_count=9&hide=php,jupyter%20notebook)
