@@ -8,7 +8,7 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
 
 <div>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-conceicao-89a047230/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielconceicao18/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </div>
