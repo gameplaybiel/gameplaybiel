@@ -39,7 +39,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **Java com Spring Boot**, **a
     <td align="center"><img alt="Python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
     <td align="center"><img alt="AWS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></td>
     <td align="center"><img alt="Docker" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></td>
-    <td align="center"><img alt="Kafka" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg"></td>
     <td align="center"><img alt="RabbitMQ" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"></td>
     <td align="center"><img alt="Postman" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></td>
     <td align="center"><img alt="Insomnia" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"></td>
